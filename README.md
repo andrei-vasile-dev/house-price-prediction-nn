@@ -29,7 +29,7 @@ To ensure high-quality training, the following pipeline was implemented:
 ├── data/ housing.csv               # Original dataset (546 entries)
 ├── environment.yml           # Anaconda environment (laboratoareIA)
 ├── house_price_prediction.ipynb # Experimental Notebook
-└── README.md                 # Project documentation
+├── README.md                 # Project documentation
 └── docs/ Documentation.pdf    # Project documentation, for more details of the experiment
 ```
 
